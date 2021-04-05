@@ -4,6 +4,7 @@ Our boss has tased us with producing tables that show the number of retiring emp
 
 ## Results:
 It can be seen that there are 90,389 employees retiring from 7 different titles:
+
 <img width="168" alt="Screen Shot 2021-04-04 at 8 51 32 PM" src="https://user-images.githubusercontent.com/75695931/113526695-044ac800-9589-11eb-99a6-078e92f0494b.png">
 
 The mentorshp data also tells us that there are 1,549 peole eligible for the mentorhsip progam from 7 possible positions.
