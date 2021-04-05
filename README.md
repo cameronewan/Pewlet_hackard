@@ -1,4 +1,4 @@
-# Pewlet_hackard
+# Pewlet_Hackard
 ## Overview of the analysis:
 Our boss has tased us with producing tables that show the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. We will then present our findings. There seems to be a silver tsunami headed for the company and our boss wants to me sure that we are prepared for it.  
 
