@@ -18,6 +18,7 @@ It can be seen that there are:
 **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 - The number of roles that will need to be filled is 90,389 in total. in the first year about 1/3 of those employees will need to be replaced as can be seen in Query one. so Pawlet Hackard may want to put a lot of effort into the first year as a large portion of employees will be retiring. 
 
+<img width="283" alt="Screen Shot 2021-04-04 at 9 26 26 PM" src="https://user-images.githubusercontent.com/75695931/113528236-02cfce80-958e-11eb-87a6-0d42c730b647.png">
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 - There are more than enough retirment-ready employees in the departments to mentor the next generation as can be seen in the able produced below. This table breaks down the count of retiring employees from each position. 
