@@ -106,3 +106,20 @@ AND ti.to_date='9999-01-01'
 ORDER BY e.emp_no ASC;
 
 select * from mentorship_eligibility
+-- query
+SELECT es.emp_no,
+		es.birth_date,
+		es.first_name,
+		es.last_name,
+		rt.title,
+		ti.from_date,
+		ti.to_date
+INTO final_retire
+FROM employees as es
+INNER JOIN titles as ti
+ON (es.emp_no = ti.emp_no)
+INNER JOIN retiring_titles as rt
+ON (ti.title = rt.title)
+WHERE (es.birth_date BETWEEN '1952-01-01' AND '1952-12-31')
+ORDER BY (es.emp_no = ti.emp_no);
+select * from final_retire
